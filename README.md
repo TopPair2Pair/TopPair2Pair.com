@@ -37,6 +37,11 @@ Please pour your heart and soul into this project, there is an opportunity of fr
 ## Known Issues ✨
 None so far. Day 1. Looking for developers. 
 
+## FAQ ✨
+How can you say you've solved 100bb holdem? 
+Insert more questions. 
+
+## Signing Off ✨
 Thank you for your time
 Tops
 
