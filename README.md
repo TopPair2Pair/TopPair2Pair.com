@@ -23,23 +23,9 @@ A HTML5 Text based Poker Platform. Possibly built with RUST and a backend of Her
 Each player will be dealt a list of 40 hands to grind, 5 second decisions need to be made by HERO. (Holdem will be used as an example but the site will operate PLO Headsup, 2 player poker). 
 4 color deck. (Ah = red) (Ac = green) (As = Black) (Ad = Blue)
 
-sb = 1
+See spreadsheet, please complete spreadsheet. 
 
-bb = 2
-
-potsize = is indicated at the end of each flop, turn, river
-
-Preflop
-LIMP, CALL, PFR, 3BET, 4BET, AI, etc
-
-Postflop
-fold = F, check = C, bet = B, call = C, raise = R, reraise = 3B, rereraise = 4B
-
-AcAd1 | 32/24/3 | PFR-CALL   |  4cTdJd6 | C/C6 | 9d | B/F6
-
-KsQs2 | 50/1/1  | PFR4-CALL   |  FOLD8   |  
-
-4c5d1 | 32/24/3 | CALL-CHECK |  XYZ     | B/F2 |
+4c5d1 | 32/24/3 | 
 
 ....
 
